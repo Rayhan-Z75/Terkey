@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    ⚔️Script Termux Key By Rayhan Ganz⚔️
+    ⚔️Script Termux Keys By Rayhan Ganz⚔️
 </h1>
 <h1 align="center">
   ®️Logo Github Rayhan Ganz®️
